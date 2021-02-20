@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to My Home Page!
 
-You can use the [editor on GitHub](https://github.com/yz1019117968/Mark-github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Yang Zhen is a second-year Ph.D. student supervised by [Prof. Keung](https://scholars.cityu.edu.hk/en/persons/jacky-wai-keung(f82e6183-a98e-4a9b-b480-ae64fd2af676).html) in the Computer Science Department, City University of Hong Kong (CityU). Before that, he received his B.A. degree in Information System from the University of Jinan (UJN) in 2018 and received his M.S degree in Computer Science from the CityU in 2019. His research interests focus on software engineering, blockchain, deep learning, and natural language processing. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yz1019117968/Mark-github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Yang, Z., Keung, J., Zhang, M., Xiao, Y., Huang, Y., & Hui, T. (2020, July). Smart Contracts Vulnerability Auditing with Multi-semantics. In 2020 IEEE 44th Annual Computers, Software, and Applications Conference (COMPSAC) (pp. 892-901). IEEE. (CCF C)
