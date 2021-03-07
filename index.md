@@ -4,7 +4,7 @@ Yang Zhen is a second-year Ph.D. student supervised by [Prof. Keung](https://sch
 
 ### Publications
 
-**Yang Z.**, Keung J., Yu X., Gu X., Wei Z., Ma X., Zhang M. (2021 May). A Multi-Modal Transformer-based Code Summarization Approach for Smart Contracts, The 2021 International Conference on Program Comprehension (ICPC 2021). (CFF B)
+**Yang Z.**, Keung J., Yu X., Gu X., Wei Z., Ma X., Zhang M. (2021 May). A Multi-Modal Transformer-based Code Summarization Approach for Smart Contracts, The 2021 International Conference on Program Comprehension (ICPC 2021). (CCF B)
 
 
 
